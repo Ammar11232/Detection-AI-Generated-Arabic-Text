@@ -62,8 +62,8 @@ We utilize a substantial dataset comprising 41,940 Arabic research abstracts, wh
 |------------------------|--------------|---------------|------------|---------------|
 | SVM (AI)               | 0.982        | 0.99          | 0.99       | 0.99          |
 | SVM (Human)            | 0.982        | 0.96          | 0.96       | 0.96          |
-| Random Forest (AI)     | 0.985        | 0.99          | 0.99       | 0,99          |
-| Random Forest (Human)  | 0.985        | 0.97          | 0.98       | 0,97          |
+| Random Forest (AI)     | 0.985        | 0.99          | 0.99       | 0.99          |
+| Random Forest (Human)  | 0.985        | 0.97          | 0.98       | 0.97          |
 
 ##  Deep Learning Model
 
