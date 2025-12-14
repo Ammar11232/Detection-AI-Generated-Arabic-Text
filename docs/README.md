@@ -1,7 +1,5 @@
 # Detection-AI-Generated-Arabic-Text
 
-
-
 ---
 
 #  Overview of Project
