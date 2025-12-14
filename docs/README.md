@@ -1,11 +1,5 @@
 # Detection-AI-Generated-Arabic-Text
 
-#  Table of Contents
-
-- [Overview of Project](#overview-of-project)
-- [Description of Task](#description-of-task)
-- [Data Collection](#data-collection)
-- [Results Model](#results-model)
 
 
 ---
